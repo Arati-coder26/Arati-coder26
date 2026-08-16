@@ -1,6 +1,6 @@
 # Hi, I'm Arati Choudhary 👋
 
-### Senior Full Stack Developer | End-to-End Web Development
+### Senior Full Stack Developer | PHP/Laravel • JavaScript • Vue.js • React • Node.js
 
 I'm a Full Stack Developer with **9+ years of professional experience** building web applications, e-commerce platforms, and business solutions.
 
