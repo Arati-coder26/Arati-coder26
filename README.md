@@ -62,6 +62,24 @@ I enjoy turning real business requirements into practical, reliable, and maintai
 `API Integration` `Payment Integration` `Third-Party Services` `Performance Optimization` `Production Support`
 
 ---
+## 🎓 Certifications & Professional Learning
+
+### Development & Technology
+
+* **Programming for Everybody** — MichiganX
+* **Python Data Structures** — MichiganX
+* **Graphic Web Design & Development Specialist** — Arena Animation, India
+* **Docker and Kubernetes: The Complete Course from Zero to Hero**
+* **The Complete Full-Stack Web Development Bootcamp**
+
+### Security & Professional Awareness
+
+* **Cloud Security**
+* **Public Wi-Fi Security**
+* **Phishing Awareness**
+* **Removable Media Security**
+  
+------
 
 ## 🔄 End-to-End Development
 
