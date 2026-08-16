@@ -117,11 +117,9 @@ I'm looking for **Full Stack Developer / Senior Full Stack Developer** opportuni
 
 ## 🌐 Find Me Online
 
-🌐 **[Portfolio](https://arati-coder26.github.io/portfolio/index.html)**
-
-💼 **[LinkedIn](YOUR-LINKEDIN-URL)**
-
-📧 **Email:** YOUR-EMAIL
+🌐 [Portfolio](https://arati-coder26.github.io/portfolio/index.html)
+💼 [LinkedIn](https://www.linkedin.com/in/arati-choudhary-740084245)
+🐙 [GitHub](https://github.com/Arati-coder26)**
 
 ---
 
