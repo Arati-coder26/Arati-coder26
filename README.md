@@ -1,112 +1,128 @@
-## Hi there 👋
+# Hi, I'm Arati Choudhary 👋
 
-<!--
-**Arati-coder26/Arati-coder26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Full Stack Developer | End-to-End Web Development
 
-Here are some ideas to get you started:
+I'm a Full Stack Developer with **9+ years of professional experience** building web applications, e-commerce platforms, and business solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Arati 👋
+I've worked across the complete development lifecycle — from understanding requirements and planning solutions to frontend and backend development, databases, APIs, integrations, deployment, and ongoing maintenance.
 
-### Full Stack Developer | End-to-End Web Development
-
-I'm a Full Stack Developer with 9+ years of professional experience building and maintaining web applications, e-commerce platforms, and business solutions.
-
-I have worked across the full development lifecycle — from understanding requirements and planning the solution to developing the frontend and backend, working with databases and APIs, deploying applications, and supporting them after release.
-
-I enjoy working on practical problems and building applications that are reliable, maintainable, and easy to use.
+I enjoy turning real business requirements into practical, reliable, and maintainable applications.
 
 ---
 
-## What I work with
+## 👩‍💻 About Me
 
-**Backend**
-
-* PHP
-* Laravel
-* Node.js
-* REST APIs
-
-**Frontend**
-
-* JavaScript
-* Vue.js
-* React
-* HTML / CSS
-
-**Databases**
-
-* MySQL
-* MongoDB
-
-**Cloud & DevOps**
-
-* AWS
-* Docker
-* Git
-
-**Platforms & E-commerce**
-
-* WordPress
-* WooCommerce
-* Shopify
+* 💼 9+ years of professional Full Stack Development experience
+* 🔄 Experienced in **end-to-end application development**
+* 🏗️ Comfortable working across frontend, backend, databases, APIs, and deployment
+* 🛒 Experience building and maintaining e-commerce platforms
+* 🔌 Experience with third-party APIs, services, and integrations
+* ☁️ Experience with cloud and deployment environments
+* 🤝 Comfortable working with designers, clients, and cross-functional teams
+* 🇩🇪 Open to **Full Stack / Senior Full Stack Developer opportunities in Germany**
 
 ---
 
-## End-to-End Development
+## 🛠️ Technical Expertise
 
-I have experience working across different parts of a project, including:
+### Frontend Development
 
-`Requirements → Technical Planning → Backend → Frontend → Database → APIs & Integrations → Testing → Deployment → Maintenance`
+`JavaScript` `Vue.js` `React` `HTML5` `CSS3` `Responsive UI`
 
-This has given me a good understanding of how different parts of an application work together, and how to take ownership of a feature or project from beginning to end.
+### Backend Development
+
+`PHP` `Laravel` `Node.js` `REST APIs`
+
+### Database & Data
+
+`MySQL` `MongoDB`
+
+### Cloud & DevOps
+
+`AWS` `Docker` `Git`
+
+### E-commerce & CMS
+
+`WooCommerce` `Shopify` `WordPress`
+
+### Development Tools
+
+`GitHub` `VS Code` `Postman`
+
+### Design & Collaboration
+
+`Figma` `Adobe Photoshop` `Slack` `Asana`
+
+### Business & CRM
+
+`HubSpot`
+
+### Integrations & Engineering
+
+`API Integration` `Payment Integration` `Third-Party Services` `Performance Optimization` `Production Support`
 
 ---
 
-## Some of my work
+## 🔄 End-to-End Development
 
-### 🛒 E-commerce Applications
+My experience covers the complete journey of a web application:
 
-Worked on e-commerce platforms involving product management, customer journeys, orders, payments, integrations, and responsive interfaces.
+**Requirements → Planning → Architecture → Backend → Frontend → Database → APIs & Integrations → Testing → Deployment → Maintenance**
 
-**Technologies:** PHP, Laravel, Vue.js, WordPress, WooCommerce, MySQL
+Working across the stack has given me a broader understanding of how technical decisions affect the complete product — from user experience and performance to backend architecture and production reliability.
+
+---
+
+## 🚀 Selected Work
+
+I've worked on a range of real-world projects, including:
+
+### 🛒 E-commerce Platforms
+
+Developed and maintained e-commerce solutions involving product management, customer journeys, orders, integrations, and responsive interfaces.
 
 ### 🤝 B2B Applications
 
-Built and maintained business applications with features such as user management, business workflows, APIs, and data-driven functionality.
+Built business applications with user management, business workflows, APIs, integrations, and data-driven functionality.
 
-**Technologies:** PHP, Laravel, Vue.js, MySQL, REST APIs
+### 🌐 Custom Web Applications
 
-### 🌐 Business & Client Websites
+Developed web applications based on specific business requirements, working across both frontend and backend.
 
-Developed and maintained websites and web applications for different businesses, working on both frontend and backend requirements.
+### ⚙️ Business Websites & Platforms
 
-**Technologies:** PHP, JavaScript, Vue.js, WordPress, Shopify
+Worked on development, customization, integrations, performance improvements, and ongoing maintenance for business-focused platforms.
+
+👉 **[View my portfolio](https://arati-coder26.github.io/portfolio/index.html)**
 
 ---
 
-## Currently
+## 💡 How I Work
 
-I'm interested in **Full Stack Developer / Senior Full Stack Developer** opportunities where I can contribute across the application stack and take ownership of end-to-end development.
+For me, good development is not only about writing code.
+
+It's about understanding **what the business needs**, finding a practical technical approach, building a solution that is easy to maintain, and making sure it continues to work reliably after it goes live.
+
+I value clean implementation, clear communication, usability, and solving problems in a practical way.
+
+---
+
+## 📌 Currently
+
+I'm looking for **Full Stack Developer / Senior Full Stack Developer** opportunities where I can contribute to end-to-end development, work on meaningful products, and take ownership of technical solutions.
 
 🇩🇪 **Open to opportunities in Germany**
 
 ---
 
-## Connect with me
+## 🌐 Find Me Online
 
-🌐 [Portfolio](https://arati-coder26.github.io/portfolio/index.html)
+🌐 **[Portfolio](https://arati-coder26.github.io/portfolio/index.html)**
 
-💼 [LinkedIn](#)
+💼 **[LinkedIn](YOUR-LINKEDIN-URL)**
 
-📧 [Email](mailto:your-email@example.com)
+📧 **Email:** YOUR-EMAIL
 
+---
 
+⭐ Thanks for visiting my profile!
