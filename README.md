@@ -27,7 +27,7 @@ I enjoy turning real business requirements into practical, reliable, and maintai
 
 ### Frontend Development
 
-`JavaScript` `Vue.js` `React` `HTML5` `CSS3` `Responsive UI`
+`JavaScript` `TypeScript` `Vue.js` `React` `HTML5` `CSS3` `Responsive UI`
 
 ### Backend Development
 
