@@ -111,7 +111,7 @@ Developed web applications based on specific business requirements, working acro
 
 Worked on development, customization, integrations, performance improvements, and ongoing maintenance for business-focused platforms.
 
-👉 **[View my portfolio](https://arati-coder26.github.io/portfolio/index.html)**
+👉 **[View my portfolio](https://arati-coder26.github.io/portfolio/)**
 
 ---
 
