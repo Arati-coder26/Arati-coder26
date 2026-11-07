@@ -6,14 +6,12 @@
 
 I specialize in **PHP/Laravel and modern JavaScript development**, with experience across backend, frontend, databases, APIs, integrations, cloud environments, and production support.
 
-🇩🇪 **Open to Senior Full Stack Developer opportunities in Germany**
-
 ---
 
 ## 🛠️ Tech Stack
 
 **Backend**
-`PHP` `Laravel` `Node.js` `REST APIs`
+`PHP` `Laravel` `Node.js` `REST APIs` 'Python' 'LLM' 'RAG'
 
 **Frontend**
 `JavaScript` `TypeScript` `Vue.js` `React` `HTML5` `CSS3`
@@ -28,7 +26,7 @@ I specialize in **PHP/Laravel and modern JavaScript development**, with experien
 `Shopify` `WooCommerce` `WordPress`
 
 **Tools & Collaboration**
-`Postman` `VS Code` `Figma` `Slack` `Asana`
+`Postman` `VS Code` `Figma` `Slack` `Asana` 'Chatgpt' 'Copilot' 
 
 ---
 
