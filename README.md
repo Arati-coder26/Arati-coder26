@@ -11,7 +11,7 @@ I specialize in **PHP/Laravel and modern JavaScript development**, with experien
 ## 🛠️ Tech Stack
 
 **Backend**
-`PHP` `Laravel` `Node.js` `REST APIs` 'Python' 'LLM' 'RAG'
+`PHP` `Laravel` `Node.js` `REST APIs` `Pyrhon` `RAG` `LLM`
 
 **Frontend**
 `JavaScript` `TypeScript` `Vue.js` `React` `HTML5` `CSS3`
@@ -26,7 +26,7 @@ I specialize in **PHP/Laravel and modern JavaScript development**, with experien
 `Shopify` `WooCommerce` `WordPress`
 
 **Tools & Collaboration**
-`Postman` `VS Code` `Figma` `Slack` `Asana` 'Chatgpt' 'Copilot' 
+`Postman` `VS Code` `Figma` `Slack` `Asana` `ChatGpt` `Claude` `Copilot`
 
 ---
 
