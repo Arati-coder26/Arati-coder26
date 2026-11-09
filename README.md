@@ -2,9 +2,7 @@
 
 ### Senior Full Stack Developer | PHP/Laravel | JavaScript | Python | CMS
 
-**9+ years of professional experience** building web applications, e-commerce platforms, business solutions, APIs, and custom software.
-
-I specialize in **PHP/Laravel and modern JavaScript development**, with experience across backend, frontend, databases, APIs, integrations, cloud environments, and production support.
+Senior Full Stack Developer with 9+ years of experience designing, developing, and maintaining scalable, high-performance web applications. Proficient in JavaScript, TypeScript, PHP, Python, Node.js, Vue.js, Shopify, and WordPress, with working knowledge of React.js. Experienced in API integration, CMS platforms, AWS, and CI/CD practices. Familiar with LLM and RAG technologies, with a focus on writing clean, efficient code, optimizing application performance, and delivering reliable, scalable, and maintainable software solutions.
 
 ---
 
