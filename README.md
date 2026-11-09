@@ -38,6 +38,14 @@ Professional full-stack business application featuring authentication, meeting r
 
 🔗 [View Repository](https://github.com/Arati-coder26/B2Bmeet)
 
+### 🤝 CareerTrack
+
+**Typescript • React.js • Node.js • API • Database**
+
+CareerTrack is a job application tracking dashboard designed to help job seekers efficiently organize and manage their job search. It provides a centralized view of job applications, allowing users to track application statuses, monitor progress through different hiring stages, manage job details, and keep follow-ups organized. The dashboard also includes summary metrics, application search and filtering, and daily activity insights, making it easier to stay organized and keep track of multiple job opportunities.
+
+🔗 [View Repository](https://github.com/Arati-coder26/careertrack-demo)
+
 ### 📋 Certificate Management System
 
 **PHP • MySQL • JavaScript**
