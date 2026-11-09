@@ -1,6 +1,6 @@
 # Hi, I'm Arati Choudhary 👋
 
-### Senior Full Stack Developer | PHP/Laravel • JavaScript • Vue.js • React • Node.js
+### Senior Full Stack Developer | PHP/Laravel • JavaScript • Vue.js • React • Node.js • Python • Shopify / WordPress 
 
 **9+ years of professional experience** building web applications, e-commerce platforms, business solutions, APIs, and custom software.
 
